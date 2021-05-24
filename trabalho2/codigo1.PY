@@ -1,5 +1,9 @@
+###### O Questionário só funciona no    replit.com    ######
+
 # O jogo acontece no file questionario.txt dentro da pasta trabalho2. Fique com a tela do questionario aberta e aperte o botão Run aqui em cima.
+
 # Toda vez que nada acontecer no questionário aperte o botão Run.
+
 # Depois de responder o questionário, suba a barra lateral até o topo e aperte Run.
 
 
