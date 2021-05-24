@@ -1,6 +1,7 @@
 <h1 align=center> JOGO -  Qual a sua porcentagem de cada casa de Hogwarts </h1>
 
-<img align="center" src="https://user-images.githubusercontent.com/80162033/119371016-599f7d80-bc8c-11eb-9e37-8f3a26e0de54.png" />
+
+<img src="https://user-images.githubusercontent.com/80162033/119371016-599f7d80-bc8c-11eb-9e37-8f3a26e0de54.png" />
 </br></br>
 
 
